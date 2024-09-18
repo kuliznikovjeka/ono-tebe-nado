@@ -139,14 +139,10 @@
   font-weight: 700;
   line-height: 115%;
   text-transform: uppercase;
-  margin-bottom: 135px;
+  margin-bottom: 128px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-}
-
-.hero__title {
-  margin-bottom: 128px;
 }
 
 .hero__row {
